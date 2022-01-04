@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "csci-5410-serverless",
+  "private_key_id": "ea0238d26c46747ab21c46aeffa5fe8be360e5b5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQUcVo2MQZOxSI\nsa+QFenXq78NcWtJwVsX/TkkmotC9L3jFLngrfzoX4BdI447dKrHopbAEbNZzfc4\neZI7o994vE9kRvle6wecsymEshk/exMYPhhXJloqzQg5bZQWy1XRFCCrCESRNRcW\nL71jeGMJe75yxKpoa3I/RmDw2TdT+K/xOxOBQ/eL/mv1WGNVhTt8TdWAG9zhy1KN\nOUAhL3+y1HYkaixjk3AIPUr7Sb58w8RySGWmwDW6GMTTOlUe7fS9AWutnYiIBzNA\nz289745CkD/kq8KVNAsejDDpm2xBw5OUpuwZddkRmUKDTE+TkpCW4RbhdCCZ+xDT\nWNV4UW2JAgMBAAECggEAMNIpIKREeOFGs65oxazNC9VdRgpBqZxd++ZFgRWS85Ml\n+VT/Ju+/qLnQ/IL7r2VtLLInAEZlsPM7MAoVwlJqagI/3PFhOeR8+TVn0ohmsGDo\nnbLXw3zifstkVQkgPqNSrlg4O70JTLqTeYigqvIoy60refwrL6OWt8uHpopRlCT0\n1OaAEIH6f1L4zlnpAeHg1fM/jWuzf1e4IR32Ra88bnmPoQF8LtT6/aNfiFZ8AYkW\nKQZdYoPbo+xiXFET4edGSbtGu1LNx+taS1lzVrPMfaOnhldBzM5H3PihWkKXFj0Q\nwgWBhJRAo16mfXKwQ+8xkKUl+YnyiIeqand64BZx/QKBgQDtzbAzulo2zNMyMHN2\np5gkyFFX+Nle5DD/RXNNewSM3mfZIvtWYs5ml1vPIrtm/BHH5y4GOyJJUzY6z3sU\ntbaz9UokDWm8ejVpBOPK3ebP8rNoIpK1eHsALtig0ulZI+2/AVO/6SgfhS3HQPUe\nTXziQintjPBuqaltg/e+ps8ZUwKBgQDgQoW1LJGp7G4+mO3vkP4pQdPUTmKYeZcz\nWQGUHZErgUTb5nZu7KHe8cy/Cdefylk4GGuN9XBAT53HqC8OOYba49u9uTYyDG8Q\nNdMHbdUv1Cb2KQZdRDDSnJ8BkIVqfeOU0eQoCXi5Vo/AuouiTdgeX83nEHpcJFGn\nzuOomgzWMwKBgEAA92bExlkvgbxla/5Il1t3CuW5lY/DrShXofP9ozji92Jq1ujm\nSRU1scErYPMT7xk1sJ5+tfi0S8lCZKcrTVRcNatEbOwMnGl6pnDIjsHzWbQycfgj\nyD9BXI7UlXengurAybDCaUkqiCqz4gVY577h/fTw1RmD0pUmSrzmmqD/AoGBAKD+\nII7X2BpsqRg3IVkCdfOYVkHro8xiPbGXDBMQxs68lnpnEE7BgdNTMvFSV4FW+oXS\nwiO/Nz5z6YkTq/RCSBWLzox9EfMMCg9RFJYYuxsC6pV9DhyWf5Yy6dNttNmmVmLX\n6zry0b/77GcnhGaYC7aCgIaIxc6wJA6b78NyFBURAoGARM+4f66ZYFukJRiZq4IH\ndfzj/inY4EsEuzcAaRdjhXsMT4XkSohaK+wvul8s4zMIA2KQPb0NwVEP7OBSYmGH\nyH/bFzLddbkY5CFVCGL+ZMHZwd5CrnoIGNkYBfpBfgNQDVVeCfWPLXG7LRvN5V4b\nS5vNZONK5ZelgCzWu719lRk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsubmessaging@csci-5410-serverless.iam.gserviceaccount.com",
+  "client_id": "107992591575590641535",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsubmessaging%40csci-5410-serverless.iam.gserviceaccount.com"
+}

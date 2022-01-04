@@ -1,0 +1,83 @@
+<!-- The UI design is referenced from the source - https://www.w3schools.com/howto/howto_css_chat.asp
+Image credits - https://png.pngtree.com/element_our/png_detail/20181229/vector-chat-icon-png_302635.jpg -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    body {
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 0 20px;
+    }
+    
+    .container {
+      border: 2px solid #dedede;
+      background-color: #f1f1f1;
+      border-radius: 5px;
+      padding: 10px;
+      margin: 10px 0;
+    }
+    
+    .darker {
+      border-color: #ccc;
+      background-color: #ddd;
+    }
+    
+    .container::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+    
+    .container img {
+      float: left;
+      max-width: 60px;
+      width: 100%;
+      margin-right: 20px;
+      border-radius: 50%;
+    }
+    
+    .container img.right {
+      float: right;
+      margin-left: 20px;
+      margin-right:0;
+    }
+    
+    .time-right {
+      float: right;
+      color: #aaa;
+    }
+    
+    .time-left {
+      float: left;
+      color: #999;
+    }
+    </style>
+    </head>
+    
+<body>
+
+    <div class="container mt-5">
+        <a href="/" class="btn btn-primary mb-5">Go Back</a>
+        <h1> Customer chat window</h1>
+        <form action="/chat" method="POST">
+            <div class="container">
+                <img src="https://png.pngtree.com/element_our/png_detail/20181229/vector-chat-icon-png_302635.jpg" alt="Avatar">
+                <p><%-msg%></p>
+                <span class="time-right">11:00</span>
+            </div>
+            <div class="container">
+                <img src="https://png.pngtree.com/element_our/png_detail/20181229/vector-chat-icon-png_302635.jpg" alt="Avatar">
+                <p><%-restmsg%></p>
+                <span class="time-right">11:02</span>
+            </div>
+            <div>
+                <input type="text" name="message" placeholder="enter message"/>
+                <button type="submit">send</button>
+            </div>
+        
+        </form>
+    </div>
+</body>
+</html>

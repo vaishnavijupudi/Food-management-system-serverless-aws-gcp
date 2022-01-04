@@ -1,0 +1,33 @@
+.addreceipe{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: initial;
+    padding-top: 40px;
+        background-color: burlywood;
+        padding: 25px;
+        box-shadow:rgb(0 0 0) 0px 3px 34px
+      
+}
+
+.itemlabel{
+    font-size: xxx-large;
+    font-family: cursive;
+    padding: 10px 0px 0px 0px;
+    text-align: left;
+}
+
+.labeladdnew{
+    font-size: x-large;
+    font-family: emoji;
+    padding: 0px 71px;
+}
+
+.betweenitem{
+    padding: 0px 0px 15px;
+}
+
+.displayitem{
+    display: flex;
+    padding: 32px 230px 0px;
+}
